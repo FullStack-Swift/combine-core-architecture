@@ -6,4 +6,4 @@ Disclaimer: This is a toy project! Do not use for production. Use it to learn mo
 
 ## Example
 
-https://github.com/FullStack-Swift/TodoFullStackSwift
+https://github.com/FullStack-Swift/TodoList
